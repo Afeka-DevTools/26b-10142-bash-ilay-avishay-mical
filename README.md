@@ -4,7 +4,7 @@
 
 | Name    | Scripts Written                                                             |
 |---------|------------------------------------------------------------------------------|
-| Eli     | backup_folder.sh, check_internet.sh, disk_usage_report.sh, show_uptime.sh, battery_status.sh |
+| Ilay    | backup_folder.sh, check_internet.sh, disk_usage_report.sh, show_uptime.sh, battery_status.sh |
 | Avishai | generate_password.sh, countdown_timer.sh, ascii_clock.sh, reminder.sh, show_env_vars.sh |
 | Mical   | count_lines_words_chars.sh, summarize_directory.sh, find_recent_files.sh, count_files_by_extension.sh, sort_file_lines.sh |
 
@@ -25,7 +25,7 @@ All scripts live in the `/scripts` folder at the root of this repository.
 
 ---
 
-## Scripts by Eli
+## Scripts by Ilay
 
 ### `backup_folder.sh`
 Backs up a folder into a timestamped `.tar.gz` archive.
